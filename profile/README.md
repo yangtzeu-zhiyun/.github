@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo-round.png" width="88" alt="长大智耘 logo" />
+  <img src="../assets/logo-round.png" width="88" alt="长大智耘 logo" />
 
   # 长大智耘 · Zhiyun
 
